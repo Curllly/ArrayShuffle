@@ -1,0 +1,15 @@
+D:\Projects\Temp\ArrayShufle\bin\Debug\net6.0\ArrayShufle.exe
+D:\Projects\Temp\ArrayShufle\bin\Debug\net6.0\ArrayShufle.deps.json
+D:\Projects\Temp\ArrayShufle\bin\Debug\net6.0\ArrayShufle.runtimeconfig.json
+D:\Projects\Temp\ArrayShufle\bin\Debug\net6.0\ArrayShufle.dll
+D:\Projects\Temp\ArrayShufle\bin\Debug\net6.0\ArrayShufle.pdb
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.csproj.AssemblyReference.cache
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.AssemblyInfoInputs.cache
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.AssemblyInfo.cs
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.csproj.CoreCompileInputs.cache
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.dll
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\refint\ArrayShufle.dll
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.pdb
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ArrayShufle.genruntimeconfig.cache
+D:\Projects\Temp\ArrayShufle\obj\Debug\net6.0\ref\ArrayShufle.dll
